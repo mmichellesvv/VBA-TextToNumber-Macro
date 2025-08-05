@@ -21,9 +21,9 @@ You will be prompted to:
 - Convert text-formatted numbers to proper numeric format
 
 ## Promos:
-<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/f5a8fc3c-4ace-442e-9474-8a57952b8dc4" /><br>
-
 <img width="480" height="242" alt="image" src="https://github.com/user-attachments/assets/1ab04f6f-9fe8-4a0d-9629-d555368c217c" /><br>
+
+<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/f5a8fc3c-4ace-442e-9474-8a57952b8dc4" /><br>
 
 <img width="553" height="472" alt="image" src="https://github.com/user-attachments/assets/271e942a-ed67-4ae2-9fb6-ea2aac142df8" /><br>
 
@@ -36,8 +36,6 @@ You will be prompted to:
 <img width="289" height="211" alt="image" src="https://github.com/user-attachments/assets/532fb526-fccb-4ff2-93cb-2d8e2520c4bc" /><br>
 
 <img width="220" height="103" alt="image" src="https://github.com/user-attachments/assets/308ff4e7-ec83-4e5a-b45a-a89c1f59f9a3" /><br>
-
-<img width="563" height="192" alt="image" src="https://github.com/user-attachments/assets/3a3ab351-9e46-4428-9fb1-ebce0c0e3888" /><br>
 
 
 
