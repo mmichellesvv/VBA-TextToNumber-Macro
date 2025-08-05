@@ -21,11 +21,8 @@ You will be prompted to:
 - Convert text-formatted numbers to proper numeric format
 
 ## Promo:
-<img src="https://github.com/user-attachments/assets/062318a4-95b7-4c58-bff3-25eee9325913" alt="Description of image" width="700"/>
-
-<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/cbc04e64-c9a1-4ec1-9fbd-aa93833c03b2" />
 <img width="907" height="26" alt="image_2025-08-05_22-43-17" src="https://github.com/user-attachments/assets/1ae97f12-8f6a-4342-b676-2eca99135f48" />
-
+<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/cbc04e64-c9a1-4ec1-9fbd-aa93833c03b2" />
 <img width="553" height="472" alt="image" src="https://github.com/user-attachments/assets/e9bc5b07-b916-4cbf-9c80-1b8b8592b24f" />
 <img width="718" height="463" alt="image" src="https://github.com/user-attachments/assets/d9cdf407-f464-4d98-98f2-70c7a62eb41a" />
 <img width="449" height="207" alt="image" src="https://github.com/user-attachments/assets/1b3b65b6-2aa7-4ac1-b243-3a56a53bcf6d" />
