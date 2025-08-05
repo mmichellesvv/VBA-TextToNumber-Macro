@@ -21,15 +21,24 @@ You will be prompted to:
 - Convert text-formatted numbers to proper numeric format
 
 ## Promos:
-<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/f5a8fc3c-4ace-442e-9474-8a57952b8dc4" />
-<img width="480" height="242" alt="image" src="https://github.com/user-attachments/assets/1ab04f6f-9fe8-4a0d-9629-d555368c217c" />
-<img width="553" height="472" alt="image" src="https://github.com/user-attachments/assets/271e942a-ed67-4ae2-9fb6-ea2aac142df8" />
-<img width="718" height="463" alt="image" src="https://github.com/user-attachments/assets/c4647e05-2f80-496a-ac3a-ddbc859eb19e" />
-<img width="449" height="207" alt="image" src="https://github.com/user-attachments/assets/907bde87-80c7-474e-be1d-84adb7e7afbb" />
-<img width="478" height="219" alt="image" src="https://github.com/user-attachments/assets/49327805-3201-4497-9ddf-38821d09d1d4" />
-<img width="289" height="211" alt="image" src="https://github.com/user-attachments/assets/532fb526-fccb-4ff2-93cb-2d8e2520c4bc" />
-<img width="220" height="103" alt="image" src="https://github.com/user-attachments/assets/308ff4e7-ec83-4e5a-b45a-a89c1f59f9a3" />
-<img width="563" height="192" alt="image" src="https://github.com/user-attachments/assets/3a3ab351-9e46-4428-9fb1-ebce0c0e3888" />
+<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/f5a8fc3c-4ace-442e-9474-8a57952b8dc4" /><br>
+
+<img width="480" height="242" alt="image" src="https://github.com/user-attachments/assets/1ab04f6f-9fe8-4a0d-9629-d555368c217c" /><br>
+
+<img width="553" height="472" alt="image" src="https://github.com/user-attachments/assets/271e942a-ed67-4ae2-9fb6-ea2aac142df8" /><br>
+
+<img width="718" height="463" alt="image" src="https://github.com/user-attachments/assets/c4647e05-2f80-496a-ac3a-ddbc859eb19e" /><br>
+
+<img width="449" height="207" alt="image" src="https://github.com/user-attachments/assets/907bde87-80c7-474e-be1d-84adb7e7afbb" /><br>
+
+<img width="478" height="219" alt="image" src="https://github.com/user-attachments/assets/49327805-3201-4497-9ddf-38821d09d1d4" /><br>
+
+<img width="289" height="211" alt="image" src="https://github.com/user-attachments/assets/532fb526-fccb-4ff2-93cb-2d8e2520c4bc" /><br>
+
+<img width="220" height="103" alt="image" src="https://github.com/user-attachments/assets/308ff4e7-ec83-4e5a-b45a-a89c1f59f9a3" /><br>
+
+<img width="563" height="192" alt="image" src="https://github.com/user-attachments/assets/3a3ab351-9e46-4428-9fb1-ebce0c0e3888" /><br>
+
 
 
 
