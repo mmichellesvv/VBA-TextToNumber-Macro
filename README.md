@@ -9,7 +9,6 @@ A simple VBA macro that highlights and converts numbers stored as text in Excel 
 
 
 ### How to Use:
-```md
 
 1. Open Excel.
 2. Activate Developer mode following `File > Options > Costumise Ribbon, then check the box Developer in the right-hand list. Click `OK`.
@@ -21,4 +20,3 @@ You will be prompted to:
 - Highlight problematic cells
 - Optionally create a backup
 - Convert text-formatted numbers to proper numeric format
-```
