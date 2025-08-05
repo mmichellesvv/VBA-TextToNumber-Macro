@@ -19,3 +19,7 @@ You will be prompted to:
 - Highlight problematic cells
 - Optionally create a backup
 - Convert text-formatted numbers to proper numeric format
+
+## Promo:
+<img src="https://github.com/user-attachments/assets/062318a4-95b7-4c58-bff3-25eee9325913" alt="Description of image" width="700"/>
+<img width="219" height="110" alt="image" src="https://github.com/user-attachments/assets/cbc04e64-c9a1-4ec1-9fbd-aa93833c03b2" />
