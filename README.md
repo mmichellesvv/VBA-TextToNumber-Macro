@@ -21,18 +21,18 @@ You will be prompted to:
 - Convert text-formatted numbers to proper numeric format
 
 ## Promo:
-<img width="500" height="26" alt="image_2025-08-05_22-43-17" src="https://github.com/user-attachments/assets/1ae97f12-8f6a-4342-b676-2eca99135f48" />
+<img width="500" height="500" alt="image_2025-08-05_22-43-17" src="https://github.com/user-attachments/assets/1ae97f12-8f6a-4342-b676-2eca99135f48" />
 
-<img width="500" height="110" alt="image" src="https://github.com/user-attachments/assets/cbc04e64-c9a1-4ec1-9fbd-aa93833c03b2" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cbc04e64-c9a1-4ec1-9fbd-aa93833c03b2" />
 
-<img width="500" height="472" alt="image" src="https://github.com/user-attachments/assets/e9bc5b07-b916-4cbf-9c80-1b8b8592b24f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e9bc5b07-b916-4cbf-9c80-1b8b8592b24f" />
 
-<img width="500" height="463" alt="image" src="https://github.com/user-attachments/assets/d9cdf407-f464-4d98-98f2-70c7a62eb41a" />
-<img width="500" height="207" alt="image" src="https://github.com/user-attachments/assets/1b3b65b6-2aa7-4ac1-b243-3a56a53bcf6d" />
-<img width="500" height="211" alt="image" src="https://github.com/user-attachments/assets/a718fa05-2352-42ea-b9d6-1ac28fab531e" />
-<img width="500" height="103" alt="image" src="https://github.com/user-attachments/assets/3527a903-8ad2-4351-972d-237e5c583b6e" />
-<img width="500" height="192" alt="image" src="https://github.com/user-attachments/assets/60a6f23d-3543-4c34-a056-68ad01ff6a16" />
-<img width="500" height="632" alt="image" src="https://github.com/user-attachments/assets/2beac314-4f22-4172-8445-a6820394009e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d9cdf407-f464-4d98-98f2-70c7a62eb41a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1b3b65b6-2aa7-4ac1-b243-3a56a53bcf6d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a718fa05-2352-42ea-b9d6-1ac28fab531e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3527a903-8ad2-4351-972d-237e5c583b6e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/60a6f23d-3543-4c34-a056-68ad01ff6a16" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2beac314-4f22-4172-8445-a6820394009e" />
 
 
 
