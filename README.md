@@ -9,7 +9,7 @@ A simple VBA macro that highlights and converts numbers stored as text in Excel 
 
 ## How to Use:
 
-1. Download TextToNumber.bas file from this repo.
+1. Download `TextToNumber.bas` file from this repo.
 2. Open target file in Excel.
 3. Activate Developer mode following `File > Options > Costumise Ribbon`, then check the box Developer in the right-hand list. Click `OK`.
 4. Find `Developer` tab and click `Visual Basic` to open the VBA editor.
