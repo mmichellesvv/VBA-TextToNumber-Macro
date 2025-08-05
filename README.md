@@ -7,8 +7,7 @@ A simple VBA macro that highlights and converts numbers stored as text in Excel 
 - convert values using CDbl() while preserving decimal formatting
 - works across all sheets in a workbook
 
-
-### How to Use:
+## How to Use:
 
 1. Open Excel.
 2. Activate Developer mode following `File > Options > Costumise Ribbon, then check the box Developer in the right-hand list. Click `OK`.
